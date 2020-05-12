@@ -1,0 +1,85 @@
+body
+{
+margin:auto;
+}
+
+div
+{
+    float:left;
+    width:50%;
+}
+/*Colonne de gauche*/
+.COL1
+{
+    font-size: 15px;
+    text-align: center;
+    background-color: mediumpurple;
+
+}
+/*Colonne de droite*/
+.COL2
+{
+    margin-left: 20px;
+    background-color: lightseagreen;
+    padding:10px;
+    /*text-align: center;*/
+}
+.photoCV
+{
+    border-radius: 50%;
+    margin-top:40px;
+}
+.presentation
+{
+    height:3px;
+    font-size:10px;
+}
+.presentationGras
+{
+    height:3px;
+    font-weight: bold;
+    font-size:10px;
+}
+.couleur
+{
+    color:blue;
+}
+
+h1
+{
+    padding-bottom : 40px;
+}
+.skills
+{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-right: 160px;
+    margin-left: 160px;
+    padding: 5px;
+}
+h2
+{
+   background-color: orange; 
+   color:white; 
+   margin-left: 20px;
+   margin-right:20px;
+   margin-bottom:30px;
+   padding:5px;
+}
+.SK
+{
+    width:40px;
+    height:40px;
+}
+.Adresse
+{
+    text-align: center;
+    width:60px;
+    height:60px;
+
+}
+img
+{
+    border-radius:50%;
+    text-align:center; 
+}
